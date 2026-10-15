@@ -60,4 +60,7 @@ Qua đó, khách hàng có thể dễ dàng tìm kiếm, lọc, tạo mới, ch�
 4. Nhấn **Tạo dự án** để thêm dự án mới và thử các chức năng tìm kiếm, lọc, chỉnh sửa, lưu trữ, khôi phục hoặc xóa.
 
 **Lưu ý:** Phiên bản hiện tại tập trung vào màn hình Tổng quan dự án dành cho khách hàng. Dữ liệu được lưu bằng LocalStorage và API chỉ được mô phỏng, chưa kết nối cơ sở dữ liệu hoặc máy chủ thực tế.
+
 ## 6. Link Figma: https://www.figma.com/design/58F0JdpdZlPOztjrWXrmlC/Untitled?node-id=0-1&t=xunA0I9VObaLXjGD-1
+
+## 7. Link video: https://youtu.be/3bpwP8YPHLk
